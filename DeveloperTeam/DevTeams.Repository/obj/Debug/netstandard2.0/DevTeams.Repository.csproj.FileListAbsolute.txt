@@ -1,0 +1,9 @@
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeams.Repository\bin\Debug\netstandard2.0\DevTeams.Repository.deps.json
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeams.Repository\bin\Debug\netstandard2.0\DevTeams.Repository.dll
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeams.Repository\bin\Debug\netstandard2.0\DevTeams.Repository.pdb
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeams.Repository\obj\Debug\netstandard2.0\DevTeams.Repository.csprojAssemblyReference.cache
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeams.Repository\obj\Debug\netstandard2.0\DevTeams.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeams.Repository\obj\Debug\netstandard2.0\DevTeams.Repository.AssemblyInfoInputs.cache
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeams.Repository\obj\Debug\netstandard2.0\DevTeams.Repository.AssemblyInfo.cs
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeams.Repository\obj\Debug\netstandard2.0\DevTeams.Repository.dll
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeams.Repository\obj\Debug\netstandard2.0\DevTeams.Repository.pdb

@@ -1,0 +1,14 @@
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeamsConsoleStarter\bin\Debug\netcoreapp2.1\DevTeamsConsoleStarter.deps.json
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeamsConsoleStarter\bin\Debug\netcoreapp2.1\DevTeamsConsoleStarter.runtimeconfig.json
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeamsConsoleStarter\bin\Debug\netcoreapp2.1\DevTeamsConsoleStarter.runtimeconfig.dev.json
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeamsConsoleStarter\bin\Debug\netcoreapp2.1\DevTeamsConsoleStarter.dll
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeamsConsoleStarter\bin\Debug\netcoreapp2.1\DevTeamsConsoleStarter.pdb
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeamsConsoleStarter\bin\Debug\netcoreapp2.1\DevTeams.Repository.dll
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeamsConsoleStarter\bin\Debug\netcoreapp2.1\DevTeams.Repository.pdb
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeamsConsoleStarter\obj\Debug\netcoreapp2.1\DevTeamsConsoleStarter.csprojAssemblyReference.cache
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeamsConsoleStarter\obj\Debug\netcoreapp2.1\DevTeamsConsoleStarter.csproj.CoreCompileInputs.cache
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeamsConsoleStarter\obj\Debug\netcoreapp2.1\DevTeamsConsoleStarter.AssemblyInfoInputs.cache
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeamsConsoleStarter\obj\Debug\netcoreapp2.1\DevTeamsConsoleStarter.AssemblyInfo.cs
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeamsConsoleStarter\obj\Debug\netcoreapp2.1\DevTeamsConsoleStarter.csproj.CopyComplete
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeamsConsoleStarter\obj\Debug\netcoreapp2.1\DevTeamsConsoleStarter.dll
+C:\Users\Theresa\Desktop\EFA\DeveloperTeam\DevTeamsConsoleStarter\obj\Debug\netcoreapp2.1\DevTeamsConsoleStarter.pdb

@@ -1,0 +1,41 @@
+﻿Your client Komodo Insurance has a number of software development teams.
+Create a Team class that allows us to hold the list of Developers on that team along with the team's 
+name and ID.
+Developers should have an ID, a last name, and whether or not they have access to a Pluralsight 
+account or not.
+The Team should be able to add new members and remove members by their ID.
+After this is set up, Komodo will need a Repository that will have the ability to:
+  Hold all of the existing Teams
+  Have the ability to create new teams
+  Get a team by its ID
+  Delete a team by its ID
+
+
+
+Team Class
+   List of Developer List<Developer>
+   Team Name  string
+   Team ID      int
+
+   bool AddNewMember(Developer developer)
+   bool removeMember(int id)
+
+Developer class
+ Developer ID   int
+ Last name      string 
+ HasPluralsight account .... bool
+
+TeamRepository Class
+      List<Team>
+      List of Team ....... List<Team>  allTeamsList()
+
+	  GetAllDevTeams()
+	  Team GetTeamById(int id)
+	  bool AddNewTeam(Team newTeam)DeleteTeam(int id)
+
+
+After this is set up, Komodo will need a Repository that will have the ability to:
+  Hold all of the existing Teams
+  Have the ability to create new teams
+  Get a team by its ID
+  Delete a team by its ID

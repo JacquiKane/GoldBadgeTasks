@@ -1,0 +1,6 @@
+C:\Users\Theresa\Desktop\EFA\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\Theresa\Desktop\EFA\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\Theresa\Desktop\EFA\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\Theresa\Desktop\EFA\FirstProject\FirstProject\obj\Debug\FirstProject.UI.csproj.CoreCompileInputs.cache
+C:\Users\Theresa\Desktop\EFA\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\Theresa\Desktop\EFA\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
